@@ -1,1 +1,2 @@
 This is my merge commit file
+appended some line in merge file
