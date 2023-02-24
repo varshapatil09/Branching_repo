@@ -1,1 +1,2 @@
 This is my merge commit file
+This is my second commit file
